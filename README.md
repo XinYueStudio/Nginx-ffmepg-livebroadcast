@@ -1,1 +1,1 @@
-# Ngix-ffmepg-livebroadcast
+# Nginx-ffmepg-livebroadcast
